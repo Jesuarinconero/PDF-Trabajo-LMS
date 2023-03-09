@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>Noticias</title>
+<link>http://ejemplo.com</link>
+<description>Noticias de ejemplo</description>
+<language>es-es</language>
+<item>
+<title>IPhone incluirá DLC</title>
+<author>Xataka</author>
+<category>Tecnología</category>
+    <link url="https://www.manualweb.net/img/logos/java.png"></link>
+<pubDate>12/03/2023</pubDate>
+<description>Software a parte</description>
+</item>
+<item>
+<title>España</title>
+<author>Telecinco</author>
+<category>Gobierno</category>
+    <link url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png"></link>
+<pubDate>22/03/2023</pubDate>
+<description>Situación</description>
+</item>
+</channel>
+</rss>
