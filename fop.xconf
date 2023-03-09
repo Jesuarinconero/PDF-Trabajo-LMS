@@ -44,6 +44,12 @@ the location of this file.
       </filterList>
 
       <fonts>
+<font kerning="yes" embed-url="/Users/Jesus/WebstormProjects/untitled/ARIAL.TTF" embedding-mode="subset">
+               <font-triplet name="Arial" style="normal" weight="normal"/>
+           </font>
+           <font kerning="yes" embed-url="/Users/Jesus/WebstormProjects/untitled/garamond.ttf" embedding-mode="subset">
+                          <font-triplet name="Garamond" style="normal" weight="normal"/>
+                      </font>
 
         <!-- embedded fonts -->
         <!--
